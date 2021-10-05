@@ -6,5 +6,5 @@
 	"description": "values-common is essentially an attempt to provide a common foundation that would make it easier to create 8values style tests",
 	"valQuestion": "What are the values?",
 	"valDescription": "Just the default 8values used to provide an example.",
-	"mainFont": "Ubuntu-Bold"
+	"mainFont": "Ubuntu"
 }

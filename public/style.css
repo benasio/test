@@ -1,12 +1,9 @@
-/* @font-face {
-	font-family: UnifrakturCook;
-	src: url(fonts/UnifrakturCook-Bold.ttf);
+@font-face {
+	font-family: Ubuntu;
+	src: url(fonts/Ubuntu-Bold.ttf);
 }
 
 * {
-	font-family: UnifrakturCook !important;
+	font-family: Ubuntu !important;
 }
 
-h1 {
-	color: purple;
-} */

@@ -1,9 +1,9 @@
 @font-face {
-	font-family: Ubuntu;
-	src: url(fonts/Ubuntu-Bold.ttf);
+	font-family: Josefin Sans;
+	src: url(fonts/Josefin-Bold.ttf);
 }
 
 * {
-	font-family: Ubuntu !important;
+	font-family: Josefin Sans !important;
 }
 

@@ -1,7 +1,7 @@
 {
 	"title": "valuestest",
 	"version": "1.0.0",
-	"github": "https://github.com/Vizdun/values-common",
+	"github": "https://github.com/benasio/test",
 	"link": "vizdun.github.io",
 	"description": "values-common is essentially an attempt to provide a common foundation that would make it easier to create 8values style tests",
 	"valQuestion": "What are the values?",

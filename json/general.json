@@ -1,9 +1,9 @@
 {
-	"title": "PrivateValues
+	"title": "PrivateValues",
 	"version": "1.0.0",
 	"github": "https://github.com/benasio/test",
 	"link": "vizdun.github.io",
-	"description": "PrivateValues tries to determine your economic values through different questions from privatization of industry, to regulation in the world market."
+	"description": "PrivateValues tries to determine your economic values through different questions from privatization of industry, to regulation in the world market.",
 	"valQuestion": "What are the values?",
 	"valDescription": "Just the default 8values used to provide an example.",
 	"mainFont": "Josefin Sans"
